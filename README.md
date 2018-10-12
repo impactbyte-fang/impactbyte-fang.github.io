@@ -1,2 +1,3 @@
-# impactbyte-fang.github.io
-Impact Byte Fang Website
+# Impact Byte Fang Website
+
+![Screenshot](assets/images/screenshot.png)
